@@ -1,0 +1,34 @@
+{
+  "build": "h4df99d1_100",
+  "build_number": 100,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cpython 3.13.12.*",
+    "python_abi * *_cp313"
+  ],
+  "extracted_package_dir": "c:\\Users\\chiranjeevi\\.vscode\\cli\\pkgs\\python-gil-3.13.12-h4df99d1_100",
+  "files": [],
+  "fn": "python-gil-3.13.12-h4df99d1_100.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "c:\\Users\\chiranjeevi\\.vscode\\cli\\pkgs\\python-gil-3.13.12-h4df99d1_100",
+    "type": 1
+  },
+  "md5": "3d92938d5b83c49162ade038aab58a59",
+  "name": "python-gil",
+  "noarch": "generic",
+  "package_tarball_full_path": "c:\\Users\\chiranjeevi\\.vscode\\cli\\pkgs\\python-gil-3.13.12-h4df99d1_100.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f306304235197434494355351ac56020a65b7c5c56ff10ca1ed53356d575557a",
+  "size": 48618,
+  "subdir": "noarch",
+  "timestamp": 1770270436000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/python-gil-3.13.12-h4df99d1_100.conda",
+  "version": "3.13.12"
+}

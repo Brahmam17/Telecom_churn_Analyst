@@ -1,0 +1,34 @@
+{
+  "build": "py313hd8ed1ab_100",
+  "build_number": 100,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi * *_cp313"
+  ],
+  "extracted_package_dir": "c:\\Users\\chiranjeevi\\.vscode\\cli\\pkgs\\cpython-3.13.12-py313hd8ed1ab_100",
+  "files": [],
+  "fn": "cpython-3.13.12-py313hd8ed1ab_100.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "c:\\Users\\chiranjeevi\\.vscode\\cli\\pkgs\\cpython-3.13.12-py313hd8ed1ab_100",
+    "type": 1
+  },
+  "md5": "9a4b8a37303b933b847c14a310f0557b",
+  "name": "cpython",
+  "noarch": "generic",
+  "package_tarball_full_path": "c:\\Users\\chiranjeevi\\.vscode\\cli\\pkgs\\cpython-3.13.12-py313hd8ed1ab_100.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7636809bda35add7af66cda1fee156136fcba0a1e24bbef1d591ee859df755a8",
+  "size": 48648,
+  "subdir": "noarch",
+  "timestamp": 1770270374000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.13.12-py313hd8ed1ab_100.conda",
+  "version": "3.13.12"
+}

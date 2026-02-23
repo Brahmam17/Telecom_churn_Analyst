@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+Flask
+seaborn
+imbalanced-learn
+Xgboost
+mysql-connector-python
+gunicorn

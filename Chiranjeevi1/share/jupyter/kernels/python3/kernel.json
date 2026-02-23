@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "c:/Telecom_churn_Analyst/Telecom_churn_Analyst/Chiranjeevi1/python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3 (ipykernel)",
+  "language": "python",
+  "metadata": {
+    "debugger": true
+  },
+  "kernel_protocol_version": "5.5"
+}
